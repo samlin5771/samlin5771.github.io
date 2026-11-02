@@ -1,0 +1,12 @@
+   {
+     "applinks": {
+       "details": [
+         {
+           "appIDs": ["4ZWBN5MAB4.com.samlin.studyCountdown"],
+           "components": [
+             { "/": "/little-test/*", "?": { "join": "?*" } }
+           ]
+         }
+       ]
+     }
+   }
